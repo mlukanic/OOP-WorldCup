@@ -19,8 +19,8 @@ namespace WORLDCUP_ClassLibrary.Models
         public static string WPFResolution { get; set; }
         public static string FavouriteCountryOpponentCode { get; set; }
 
-        private static readonly string folderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..\..\DAL\Data\Preferences");
-        private static readonly string filePath = Path.Combine(folderPath, "Preferences.json");
+        private static readonly string folderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..\..\WORLDCUP_ClassLibrary\LocalData\Preferences");
+        private static readonly string filePath = Path.Combine(folderPath, "default.json");
 
         private static readonly LanguageManager languageManager = new LanguageManager();
 
