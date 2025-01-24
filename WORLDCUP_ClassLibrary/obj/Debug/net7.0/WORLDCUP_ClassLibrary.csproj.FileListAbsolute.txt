@@ -1,6 +1,7 @@
 C:\Users\Matija\Desktop\OOP.NET_Proj\WORLDCUP\WORLDCUP_ClassLibrary\bin\Debug\net7.0\WORLDCUP_ClassLibrary.deps.json
 C:\Users\Matija\Desktop\OOP.NET_Proj\WORLDCUP\WORLDCUP_ClassLibrary\bin\Debug\net7.0\WORLDCUP_ClassLibrary.dll
 C:\Users\Matija\Desktop\OOP.NET_Proj\WORLDCUP\WORLDCUP_ClassLibrary\bin\Debug\net7.0\WORLDCUP_ClassLibrary.pdb
+C:\Users\Matija\Desktop\OOP.NET_Proj\WORLDCUP\WORLDCUP_ClassLibrary\obj\Debug\net7.0\WORLDCUP_ClassLibrary.csproj.AssemblyReference.cache
 C:\Users\Matija\Desktop\OOP.NET_Proj\WORLDCUP\WORLDCUP_ClassLibrary\obj\Debug\net7.0\WORLDCUP_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Matija\Desktop\OOP.NET_Proj\WORLDCUP\WORLDCUP_ClassLibrary\obj\Debug\net7.0\WORLDCUP_ClassLibrary.AssemblyInfoInputs.cache
 C:\Users\Matija\Desktop\OOP.NET_Proj\WORLDCUP\WORLDCUP_ClassLibrary\obj\Debug\net7.0\WORLDCUP_ClassLibrary.AssemblyInfo.cs
@@ -10,4 +11,3 @@ C:\Users\Matija\Desktop\OOP.NET_Proj\WORLDCUP\WORLDCUP_ClassLibrary\obj\Debug\ne
 C:\Users\Matija\Desktop\OOP.NET_Proj\WORLDCUP\WORLDCUP_ClassLibrary\obj\Debug\net7.0\refint\WORLDCUP_ClassLibrary.dll
 C:\Users\Matija\Desktop\OOP.NET_Proj\WORLDCUP\WORLDCUP_ClassLibrary\obj\Debug\net7.0\WORLDCUP_ClassLibrary.pdb
 C:\Users\Matija\Desktop\OOP.NET_Proj\WORLDCUP\WORLDCUP_ClassLibrary\obj\Debug\net7.0\ref\WORLDCUP_ClassLibrary.dll
-C:\Users\Matija\Desktop\OOP.NET_Proj\WORLDCUP\WORLDCUP_ClassLibrary\obj\Debug\net7.0\WORLDCUP_ClassLibrary.csproj.AssemblyReference.cache
